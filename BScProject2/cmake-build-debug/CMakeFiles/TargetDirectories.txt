@@ -1,0 +1,3 @@
+C:/Users/Guy/CLionProjects/BScProject2/cmake-build-debug/CMakeFiles/BScProject2.dir
+C:/Users/Guy/CLionProjects/BScProject2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Guy/CLionProjects/BScProject2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
