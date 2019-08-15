@@ -1,0 +1,3 @@
+C:/Users/Guy/CLionProjects/Guy_Brown_Fractal_Project/cmake-build-debug/CMakeFiles/newtest.dir
+C:/Users/Guy/CLionProjects/Guy_Brown_Fractal_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Guy/CLionProjects/Guy_Brown_Fractal_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
